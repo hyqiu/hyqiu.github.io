@@ -2,6 +2,12 @@ Sitemap
 =======
 
 .. toctree::
+  :hidden:
+
+  404.rst
+  403.rst
+
+.. toctree::
    :maxdepth: 1
 
    2018/11/04/hello_world
